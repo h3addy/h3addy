@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Developments, sometimes in Back End.
 - 🌱 I’m currently learning Vuejs
 - 💞️ I’m looking to collaborate on Vue projects.
-- 📫 How to reah me : hatankaro@gmail.com
+- 📫 How to reach me : hatankaro@gmail.com
 
 <!---
 h3addy/h3addy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
