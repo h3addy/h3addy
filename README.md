@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @h3addy
 - 👀 I’m interested in Front End Developments, sometimes in Back End.
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on Vue projects.
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on React Native projects.
 - 📫 How to reach me : hatankaro@gmail.com
 
 <!---
